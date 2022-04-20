@@ -44,7 +44,7 @@ int main() {
 ```
 
 -----------------------
-##這是中序轉後序
+## 這是中序轉後序
 ```cpp
 #include <iostream>
 #include <string>
